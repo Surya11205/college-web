@@ -1,1 +1,1 @@
-# college-web
+# student-management
